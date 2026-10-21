@@ -1,4 +1,4 @@
-# Static Code Verification – Code Review Report
+# Static Code Verification - Code Review Report
 
 | | |
 |---|---|
