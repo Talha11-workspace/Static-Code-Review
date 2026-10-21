@@ -7,7 +7,7 @@
 | Name | Roll No. |
 |---|---|
 | **Talha Khalil** | Sp-24/BSSE/Sem-6/Sec-B/133 |
-| **Abdullah Siddiqui** | 094 |
+| **Abdullah Siddiqui** | Sp-24/BSSE/Sem-6/Sec-B/094 |
 
 **Submitted to:** Ms. Saleha  
 **Program:** BSSE, Semester 6, Section B, Lahore Garrison University
