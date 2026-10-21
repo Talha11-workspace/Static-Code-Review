@@ -1,4 +1,4 @@
-# Static Code Verification – Review Checklist
+# Static Code Verification  Review Checklist
 
 | | |
 |---|---|
